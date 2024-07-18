@@ -28,3 +28,6 @@ To work with PDF files
 [unstructured](https://python.langchain.com/v0.2/docs/integrations/document_loaders/unstructured_file/)
 library is needed. It supports multiple formats of files,
 so it is worth to check it out.
+
+
+> **Note**: This repo is for Medium blog post: https://medium.com/snowflake/langchain-for-files-stored-in-snowflake-stages-powered-by-cortex-d2be60650af8
